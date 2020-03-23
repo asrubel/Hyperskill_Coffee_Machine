@@ -1,1 +1,0 @@
-git+https://github.com/hyperskill/hs-test-python.git@v2#egg=hstest
